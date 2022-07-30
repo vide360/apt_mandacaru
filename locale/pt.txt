@@ -1,0 +1,61 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_6C461C80_4F50_7AB2_41CE_0F97971DFED7.source = https://wa.me/5583988151119
+LinkBehaviour_6F13C649_4F53_A9B5_41AC_81C57BC5737A.source = https://wa.me/5583988151119
+LinkBehaviour_6B06B24A_4F51_E9B7_41D1_9E32A8128E35.source = https://wa.me/5583998295611
+LinkBehaviour_6C467C7D_4F50_7A52_41B7_428732147F06.source = https://wa.me/5583998295611
+
+## Hotspot
+
+### Text
+FlatHotspotPanoramaOverlayTextImage_4217F9A2_50FD_50BA_4193_8401A29958E8.text = Cozinha
+HotspotPanoramaOverlayTextImage_43112479_50E4_D789_41C3_7124533F2E5C.text = Quarto
+HotspotPanoramaOverlayTextImage_432F076E_50EC_D18B_4185_41387D98B9D2.text = Suíte
+HotspotPanoramaOverlayTextImage_44DA1E35_50E4_D398_41D3_4F50706BF130.text = Wc
+QuadHotspotPanoramaOverlayTextImage_409F2DBB_50ED_5089_41C3_42F14D490AA7.text = Área Lazer
+
+## Media
+
+### Audio
+audiores_46BE204B_513B_4F89_41C2_670AD0D7C8B0.mp3Url = media/audio_4653A345_513B_71FE_41D3_B79D10FE01EC_pt.mp3
+
+### Image
+imlevel_43D7293A_5124_D18A_41D2_EE125EC02C64.url = media/panorama_5AD748D4_50DF_D09E_41D2_F4BE0F271B3D_HS_0ve6p411_pt.png
+imlevel_43D567E1_5124_D0B6_41B4_BFB29A4C3EA9.url = media/panorama_5AD748D4_50DF_D09E_41D2_F4BE0F271B3D_HS_4a4n7eq9_pt.png
+imlevel_43D679A7_5124_D0B9_41D2_46D10E055D31.url = media/panorama_5AD748D4_50DF_D09E_41D2_F4BE0F271B3D_HS_kuxg4dan_pt.png
+imlevel_43D6EA90_5124_D097_41D1_18B042059FFE.url = media/panorama_5AD748D4_50DF_D09E_41D2_F4BE0F271B3D_HS_omav99ue_pt.png
+imlevel_40460A41_50E5_33F9_41C4_7305103C1F3B.url = media/panorama_5AD7C0D0_50DF_3097_41C0_9C0745A280BA_HS_b6uc36w1_pt.png
+
+### Title
+panorama_5AD0E911_50DF_5199_41C5_B7AA06DBDF2D.label = banho social
+panorama_5AD7C692_50DF_709A_41CE_0C22A534F1C6.label = banho suite
+panorama_5AD7B43E_50DF_578A_41D1_6178C6ADB2A9.label = cozinha
+panorama_5AD7C0D0_50DF_3097_41C0_9C0745A280BA.label = entrada
+panorama_5AD79C87_50DF_3779_418E_A30D2747BBEA.label = quarto
+panorama_5AD748D4_50DF_D09E_41D2_F4BE0F271B3D.label = sala
+panorama_5AD69681_50DF_F379_41D2_CDB3BC1991B1.label = suite
+panorama_5A8E1668_50DF_33B7_41CB_9D9A6E79875A.label = área lazer 
+
+## Skin
+
+### Image
+Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA_mobile.url = skin/Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA_mobile_pt.gif
+Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA.url = skin/Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA_pt.gif
+Image_6C469BA7_4CD0_7EFD_4193_40505395420E_mobile.url = skin/Image_6C469BA7_4CD0_7EFD_4193_40505395420E_mobile_pt.gif
+Image_6C469BA7_4CD0_7EFD_4193_40505395420E.url = skin/Image_6C469BA7_4CD0_7EFD_4193_40505395420E_pt.gif
+
+### Label
+Label_5324E46B_4CD0_EA76_41B9_63E0CDBD8C9A_mobile.text = Miguel
+Label_5324E46B_4CD0_EA76_41B9_63E0CDBD8C9A.text = Miguel
+Label_525D241B_4CD0_69D6_41CC_F0DBCA13F68D.text = Regis Felipe
+Label_525D241B_4CD0_69D6_41CC_F0DBCA13F68D_mobile.text = Regis Felipe
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 5
